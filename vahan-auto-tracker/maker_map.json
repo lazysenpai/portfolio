@@ -1,0 +1,156 @@
+{
+ "_about": "Vahan maker name -> NSE ticker. Approved by the owner on 2026-10-09; a maker not listed here is kept in the data as unmapped, never assigned by guess. Change a mapping only with the owner's approval.",
+ "_version": "2026-10-09-approved",
+ "tickers": {
+  "MARUTI": {
+   "name": "Maruti Suzuki India",
+   "makers": [
+    "MARUTI SUZUKI INDIA LTD"
+   ]
+  },
+  "M&M": {
+   "name": "Mahindra & Mahindra",
+   "makers": [
+    "MAHINDRA & MAHINDRA LIMITED",
+    "MAHINDRA & MAHINDRA LIMITED (TRACTOR)",
+    "MAHINDRA & MAHINDRA LIMITED (SWARAJ DIVISION)",
+    "MAHINDRA LAST MILE MOBILITY LTD",
+    "MAHINDRA ELECTRIC AUTOMOBILE LTD",
+    "MAHINDRA ELECTRIC MOBILITY LIMITED",
+    "MAHINDRA & MAHINDRA LTD FARM MACHINERY DIVISION"
+   ],
+   "note": "Subsidiaries consolidated into M&M: Last Mile Mobility (3W EV), Electric Automobile (EV SUVs). SML Mahindra is listed separately (SMLMAH) and kept apart."
+  },
+  "TMPV": {
+   "name": "Tata Motors Passenger Vehicles",
+   "makers": [
+    "TATA MOTORS PASSENGER VEHICLES LTD",
+    "TATA PASSENGER ELECTRIC MOBILITY LTD"
+   ],
+   "note": "Vahan carries the PV subsidiary's name back to 2024. TMPV's price series is TATAMOTORS's ISIN, which drops at the Oct 2025 demerger."
+  },
+  "TMCV": {
+   "name": "Tata Motors (commercial vehicles)",
+   "makers": [
+    "TATA MOTORS LTD"
+   ],
+   "note": "After the demerger 'Tata Motors Ltd' is the CV company. Listed Nov 2025, so no price before then. The FADA tab's tag 'TMLCV' is not an NSE ticker."
+  },
+  "HYUNDAI": {
+   "name": "Hyundai Motor India",
+   "makers": [
+    "HYUNDAI MOTOR INDIA LTD"
+   ],
+   "note": "Listed Oct 2024."
+  },
+  "HEROMOTOCO": {
+   "name": "Hero MotoCorp",
+   "makers": [
+    "HERO MOTOCORP LTD"
+   ],
+   "note": "Hero Electric is a different company and is not mapped. Vida is registered under Hero MotoCorp."
+  },
+  "TVSMOTOR": {
+   "name": "TVS Motor Company",
+   "makers": [
+    "TVS MOTOR COMPANY LTD"
+   ]
+  },
+  "BAJAJ-AUTO": {
+   "name": "Bajaj Auto",
+   "makers": [
+    "BAJAJ AUTO LTD",
+    "CHETAK TECHNOLOGY LIMITED"
+   ],
+   "note": "Chetak Technology is Bajaj's EV subsidiary."
+  },
+  "EICHERMOT": {
+   "name": "Eicher Motors",
+   "makers": [
+    "ROYAL-ENFIELD (UNIT OF EICHER LTD)",
+    "VE COMMERCIAL VEHICLES LTD",
+    "VE COMMERCIAL VEHICLES LTD (VOLVO BUSES DIVISION)",
+    "EICHER MOTORS LTD"
+   ],
+   "note": "VECV is a JV consolidated by Eicher. 'EICHER TRACTORS' is TAFE's brand since 2005 and is NOT Eicher Motors; the FADA tab maps it to EICHERMOT, which is wrong."
+  },
+  "ASHOKLEY": {
+   "name": "Ashok Leyland",
+   "makers": [
+    "ASHOK LEYLAND LTD",
+    "SWITCH MOBILITY AUTOMOTIVE LTD"
+   ],
+   "note": "Switch Mobility is Ashok Leyland's EV subsidiary."
+  },
+  "ESCORTS": {
+   "name": "Escorts Kubota",
+   "makers": [
+    "ESCORTS KUBOTA LIMITED (AGRI MACHINERY GROUP)",
+    "ESCORTS KUBOTA LIMITED (CONSTRUCTION EQUIPMENT)",
+    "ESCORTS CONSTRUCTION EQUIPMENT LTD",
+    "ESCORTS TRACTORS LTD",
+    "ESCORTS LTD"
+   ],
+   "note": "Open question: 'KUBOTA AGRICULTURAL MACHINERY INDIA PVT.LTD.' is not mapped; decide whether the Kubota India merger puts it under ESCORTS."
+  },
+  "FORCEMOT": {
+   "name": "Force Motors",
+   "makers": [
+    "FORCE MOTORS LIMITED"
+   ]
+  },
+  "ATULAUTO": {
+   "name": "Atul Auto",
+   "makers": [
+    "ATUL AUTO LTD",
+    "ATUL GREENTECH PRIVATE LIMITED"
+   ],
+   "note": "Atul Greentech is Atul Auto's EV subsidiary."
+  },
+  "OLAELEC": {
+   "name": "Ola Electric",
+   "makers": [
+    "OLA ELECTRIC TECHNOLOGIES PVT LTD"
+   ]
+  },
+  "ATHERENERG": {
+   "name": "Ather Energy",
+   "makers": [
+    "ATHER ENERGY LTD"
+   ],
+   "note": "Listed May 2025."
+  },
+  "GREAVESCOT": {
+   "name": "Greaves Cotton",
+   "makers": [
+    "GREAVES ELECTRIC MOBILITY LTD",
+    "AMPERE VEHICLES PRIVATE LIMITED",
+    "AMPERE VEHICLES PVT LTD"
+   ],
+   "note": "Greaves Electric (formerly Ampere) is a subsidiary; Greaves Cotton has other businesses, so registrations are a partial read."
+  },
+  "SMLMAH": {
+   "name": "SML Mahindra",
+   "makers": [
+    "SML MAHINDRA LTD"
+   ]
+  },
+  "OLECTRA": {
+   "name": "Olectra Greentech",
+   "makers": [
+    "OLECTRA GREENTECH LTD"
+   ]
+  },
+  "JBMA": {
+   "name": "JBM Auto",
+   "makers": [
+    "JBM AUTO LIMITED",
+    "JBM ELECTRIC VEHICLES PVT LTD"
+   ]
+  }
+ },
+ "approved": {
+  "by": "owner",
+  "on": "2026-10-09"
+ }
+}

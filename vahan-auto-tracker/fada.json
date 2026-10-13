@@ -1,0 +1,468 @@
+{
+ "source": "FADA monthly OEM-wise vehicle retail registrations",
+ "months": [
+  "2026-07",
+  "2026-08",
+  "2026-09"
+ ],
+ "yoyMonth": "2025-09",
+ "lastRelease": "FADA Releases September 2026 Vehicle Retail Data",
+ "note": "FADA flags Telangana data as missing from the Sep'26 three-wheeler, commercial-vehicle and tractor tables.",
+ "refs": [
+  [
+   "July 2026",
+   "https://fada.in/images/press-release/16a7445b80cd73FADA%20Releases%20July%202026%20Vehicle%20Retail%20Data.pdf"
+  ],
+  [
+   "August 2026",
+   "https://fada.in/images/press-release/16a9e2ff1d6502FADA%20Releases%20August%202026%20Vehicle%20Retail%20Data.pdf"
+  ],
+  [
+   "September 2026",
+   "https://fada.in/images/press-release/16ac46ad2e0388FADA%20Releases%20September%202026%20Vehicle%20Retail%20Data.pdf"
+  ]
+ ],
+ "cats": [
+  {
+   "k": "2W",
+   "label": "Two-wheelers",
+   "makers": [
+    {
+     "m": "Honda Motorcycle & Scooter",
+     "sym": null,
+     "v": [
+      469687,
+      447342,
+      468789
+     ],
+     "y": 339537
+    },
+    {
+     "m": "Hero MotoCorp",
+     "sym": "HEROMOTOCO",
+     "v": [
+      440662,
+      413996,
+      434280
+     ],
+     "y": 330500
+    },
+    {
+     "m": "TVS Motor Company",
+     "sym": "TVSMOTOR",
+     "v": [
+      374113,
+      353746,
+      364640
+     ],
+     "y": 256042
+    },
+    {
+     "m": "Bajaj Auto",
+     "sym": "BAJAJ-AUTO",
+     "v": [
+      180183,
+      157149,
+      166112
+     ],
+     "y": 144214
+    },
+    {
+     "m": "Royal Enfield",
+     "sym": "EICHERMOT",
+     "v": [
+      95080,
+      94448,
+      102226
+     ],
+     "y": 83494
+    },
+    {
+     "m": "Suzuki Motorcycle India",
+     "sym": null,
+     "v": [
+      102668,
+      104217,
+      101926
+     ],
+     "y": 82443
+    },
+    {
+     "m": "India Yamaha Motor",
+     "sym": null,
+     "v": [
+      67781,
+      62375,
+      64292
+     ],
+     "y": 49614
+    },
+    {
+     "m": "Ather Energy",
+     "sym": "ATHERENERG",
+     "v": [
+      30357,
+      28757,
+      30533
+     ],
+     "y": 19620
+    },
+    {
+     "m": "Ola Electric",
+     "sym": "OLAELEC",
+     "v": [
+      14106,
+      13852,
+      13451
+     ],
+     "y": 13862
+    },
+    {
+     "m": "Greaves Electric Mobility",
+     "sym": "GREAVESCOT",
+     "v": [
+      10125,
+      8613,
+      9316
+     ],
+     "y": 4352
+    }
+   ]
+  },
+  {
+   "k": "3W",
+   "label": "Three-wheelers",
+   "makers": [
+    {
+     "m": "Bajaj Auto",
+     "sym": "BAJAJ-AUTO",
+     "v": [
+      44908,
+      42605,
+      46680
+     ],
+     "y": 43448
+    },
+    {
+     "m": "Mahindra & Mahindra",
+     "sym": "M&M",
+     "v": [
+      14823,
+      13381,
+      15242
+     ],
+     "y": 8910
+    },
+    {
+     "m": "Piaggio Vehicles",
+     "sym": null,
+     "v": [
+      9598,
+      8426,
+      9185
+     ],
+     "y": 6181
+    },
+    {
+     "m": "TVS Motor Company",
+     "sym": "TVSMOTOR",
+     "v": [
+      7294,
+      7139,
+      7740
+     ],
+     "y": 4768
+    },
+    {
+     "m": "Atul Auto",
+     "sym": "ATULAUTO",
+     "v": [
+      3066,
+      2810,
+      2982
+     ],
+     "y": 2368
+    },
+    {
+     "m": "YC Electric Vehicle",
+     "sym": null,
+     "v": [
+      2388,
+      2208,
+      2355
+     ],
+     "y": 3208
+    }
+   ]
+  },
+  {
+   "k": "PV",
+   "label": "Passenger vehicles",
+   "makers": [
+    {
+     "m": "Maruti Suzuki India",
+     "sym": "MARUTI",
+     "v": [
+      161873,
+      165200,
+      169132
+     ],
+     "y": 130049
+    },
+    {
+     "m": "Mahindra & Mahindra",
+     "sym": "M&M",
+     "v": [
+      56219,
+      50245,
+      57343
+     ],
+     "y": 41275
+    },
+    {
+     "m": "Tata Motors",
+     "sym": "TMPV",
+     "v": [
+      58774,
+      57841,
+      57254
+     ],
+     "y": 44499
+    },
+    {
+     "m": "Hyundai Motor India",
+     "sym": "HYUNDAI",
+     "v": [
+      47853,
+      46987,
+      50201
+     ],
+     "y": 38187
+    },
+    {
+     "m": "Toyota Kirloskar Motor",
+     "sym": null,
+     "v": [
+      29443,
+      24856,
+      28050
+     ],
+     "y": 23075
+    },
+    {
+     "m": "Kia India",
+     "sym": null,
+     "v": [
+      25551,
+      23371,
+      26663
+     ],
+     "y": 18274
+    },
+    {
+     "m": "Skoda Auto Volkswagen",
+     "sym": null,
+     "v": [
+      8221,
+      7469,
+      8479
+     ],
+     "y": 7470
+    },
+    {
+     "m": "JSW MG Motor India",
+     "sym": null,
+     "v": [
+      7030,
+      5784,
+      6475
+     ],
+     "y": 5698
+    },
+    {
+     "m": "Honda Cars India",
+     "sym": null,
+     "v": [
+      5822,
+      4968,
+      5283
+     ],
+     "y": 3707
+    },
+    {
+     "m": "Renault India",
+     "sym": null,
+     "v": [
+      3505,
+      3275,
+      3410
+     ],
+     "y": 2562
+    }
+   ]
+  },
+  {
+   "k": "CV",
+   "label": "Commercial vehicles",
+   "makers": [
+    {
+     "m": "Tata Motors",
+     "sym": "TMCV",
+     "v": [
+      34733,
+      30338,
+      35931
+     ],
+     "y": 24449
+    },
+    {
+     "m": "Mahindra & Mahindra",
+     "sym": "M&M",
+     "v": [
+      26055,
+      23998,
+      27677
+     ],
+     "y": 21994
+    },
+    {
+     "m": "Ashok Leyland",
+     "sym": "ASHOKLEY",
+     "v": [
+      17691,
+      16649,
+      19223
+     ],
+     "y": 14100
+    },
+    {
+     "m": "VE Commercial Vehicles",
+     "sym": "EICHERMOT",
+     "v": [
+      8724,
+      7186,
+      8309
+     ],
+     "y": 6610
+    },
+    {
+     "m": "Maruti Suzuki India",
+     "sym": "MARUTI",
+     "v": [
+      4460,
+      4435,
+      4352
+     ],
+     "y": 3373
+    },
+    {
+     "m": "Force Motors",
+     "sym": "FORCEMOT",
+     "v": [
+      2610,
+      2273,
+      2301
+     ],
+     "y": 1679
+    },
+    {
+     "m": "SML Mahindra",
+     "sym": "SMLMAH",
+     "v": [
+      1845,
+      1336,
+      1286
+     ],
+     "y": 924
+    }
+   ]
+  },
+  {
+   "k": "TRAC",
+   "label": "Tractors",
+   "makers": [
+    {
+     "m": "Mahindra & Mahindra (Tractor)",
+     "sym": "M&M",
+     "v": [
+      26863,
+      20703,
+      18223
+     ],
+     "y": 15524
+    },
+    {
+     "m": "Mahindra (Swaraj Division)",
+     "sym": "M&M",
+     "v": [
+      22334,
+      15914,
+      13975
+     ],
+     "y": 11564
+    },
+    {
+     "m": "International Tractors",
+     "sym": null,
+     "v": [
+      15991,
+      11818,
+      10159
+     ],
+     "y": 7995
+    },
+    {
+     "m": "TAFE",
+     "sym": null,
+     "v": [
+      14178,
+      10780,
+      8605
+     ],
+     "y": 7944
+    },
+    {
+     "m": "Escorts Kubota",
+     "sym": "ESCORTS",
+     "v": [
+      12782,
+      9756,
+      7772
+     ],
+     "y": 6692
+    },
+    {
+     "m": "John Deere India",
+     "sym": null,
+     "v": [
+      8087,
+      6294,
+      6007
+     ],
+     "y": 4771
+    },
+    {
+     "m": "Eicher Tractors",
+     "sym": null,
+     "v": [
+      7910,
+      5590,
+      4410
+     ],
+     "y": 3995
+    },
+    {
+     "m": "CNH Industrial India",
+     "sym": null,
+     "v": [
+      5417,
+      4170,
+      3456
+     ],
+     "y": 3203
+    }
+   ]
+  }
+ ],
+ "_about": "FADA's OEM-wise retail table for these months, as the dashboard's FADA tab shows it (typed from FADA's PDFs). Reconciled against Vahan by hygiene.py."
+}

@@ -1,0 +1,179 @@
+{
+ "_about": "Category groups fetched daily per maker: each holds >= 1% of the maker's 2025 registrations.",
+ "year": 2025,
+ "groups": {
+  "MARUTI SUZUKI INDIA LTD": [
+   "Four Wheeler",
+   "Goods Vehicle"
+  ],
+  "MAHINDRA & MAHINDRA LIMITED": [
+   "Four Wheeler",
+   "Goods Vehicle"
+  ],
+  "MAHINDRA & MAHINDRA LIMITED (TRACTOR)": [
+   "Tractor"
+  ],
+  "MAHINDRA & MAHINDRA LIMITED (SWARAJ DIVISION)": [
+   "Tractor"
+  ],
+  "MAHINDRA LAST MILE MOBILITY LTD": [
+   "Three Wheeler",
+   "Goods Vehicle"
+  ],
+  "MAHINDRA ELECTRIC AUTOMOBILE LTD": [
+   "Four Wheeler"
+  ],
+  "MAHINDRA ELECTRIC MOBILITY LIMITED": [
+   "Four Wheeler",
+   "Three Wheeler"
+  ],
+  "MAHINDRA & MAHINDRA LTD FARM MACHINERY DIVISION": [
+   "Tractor"
+  ],
+  "TATA MOTORS PASSENGER VEHICLES LTD": [
+   "Four Wheeler"
+  ],
+  "TATA PASSENGER ELECTRIC MOBILITY LTD": [
+   "Four Wheeler"
+  ],
+  "TATA MOTORS LTD": [
+   "Goods Vehicle",
+   "Bus",
+   "Four Wheeler"
+  ],
+  "HYUNDAI MOTOR INDIA LTD": [
+   "Four Wheeler"
+  ],
+  "HERO MOTOCORP LTD": [
+   "Two Wheeler"
+  ],
+  "TVS MOTOR COMPANY LTD": [
+   "Two Wheeler",
+   "Three Wheeler"
+  ],
+  "BAJAJ AUTO LTD": [
+   "Two Wheeler",
+   "Three Wheeler"
+  ],
+  "CHETAK TECHNOLOGY LIMITED": [],
+  "ROYAL-ENFIELD (UNIT OF EICHER LTD)": [
+   "Two Wheeler"
+  ],
+  "VE COMMERCIAL VEHICLES LTD": [
+   "Goods Vehicle",
+   "Bus"
+  ],
+  "VE COMMERCIAL VEHICLES LTD (VOLVO BUSES DIVISION)": [
+   "Bus"
+  ],
+  "EICHER MOTORS LTD": [
+   "Goods Vehicle",
+   "Bus"
+  ],
+  "ASHOK LEYLAND LTD": [
+   "Goods Vehicle",
+   "Bus"
+  ],
+  "SWITCH MOBILITY AUTOMOTIVE LTD": [
+   "Bus",
+   "Goods Vehicle"
+  ],
+  "ESCORTS KUBOTA LIMITED (AGRI MACHINERY GROUP)": [
+   "Tractor"
+  ],
+  "ESCORTS KUBOTA LIMITED (CONSTRUCTION EQUIPMENT)": [],
+  "ESCORTS CONSTRUCTION EQUIPMENT LTD": [
+   "Tractor"
+  ],
+  "ESCORTS TRACTORS LTD": [
+   "Tractor"
+  ],
+  "ESCORTS LTD": [
+   "Two Wheeler",
+   "Tractor"
+  ],
+  "FORCE MOTORS LIMITED": [
+   "Bus",
+   "Four Wheeler",
+   "Goods Vehicle"
+  ],
+  "ATUL AUTO LTD": [
+   "Three Wheeler"
+  ],
+  "ATUL GREENTECH PRIVATE LIMITED": [
+   "Three Wheeler"
+  ],
+  "OLA ELECTRIC TECHNOLOGIES PVT LTD": [
+   "Two Wheeler"
+  ],
+  "ATHER ENERGY LTD": [
+   "Two Wheeler"
+  ],
+  "GREAVES ELECTRIC MOBILITY LTD": [
+   "Two Wheeler"
+  ],
+  "AMPERE VEHICLES PRIVATE LIMITED": [
+   "Two Wheeler"
+  ],
+  "AMPERE VEHICLES PVT LTD": [
+   "Two Wheeler"
+  ],
+  "SML MAHINDRA LTD": [
+   "Bus",
+   "Goods Vehicle",
+   "Four Wheeler"
+  ],
+  "OLECTRA GREENTECH LTD": [
+   "Bus",
+   "Goods Vehicle"
+  ],
+  "JBM AUTO LIMITED": [
+   "Bus"
+  ],
+  "JBM ELECTRIC VEHICLES PVT LTD": [
+   "Bus"
+  ]
+ },
+ "otherBaseline": {
+  "MARUTI SUZUKI INDIA LTD": 0.0004,
+  "MAHINDRA & MAHINDRA LIMITED": 0.0197,
+  "MAHINDRA & MAHINDRA LIMITED (TRACTOR)": 0.0006,
+  "MAHINDRA & MAHINDRA LIMITED (SWARAJ DIVISION)": 0.0001,
+  "MAHINDRA LAST MILE MOBILITY LTD": 0.0001,
+  "MAHINDRA ELECTRIC AUTOMOBILE LTD": 0.0,
+  "MAHINDRA ELECTRIC MOBILITY LIMITED": 0.002,
+  "MAHINDRA & MAHINDRA LTD FARM MACHINERY DIVISION": 0.8281,
+  "TATA MOTORS PASSENGER VEHICLES LTD": 0.0,
+  "TATA PASSENGER ELECTRIC MOBILITY LTD": 0.0,
+  "TATA MOTORS LTD": 0.0334,
+  "HYUNDAI MOTOR INDIA LTD": 0.0,
+  "HERO MOTOCORP LTD": 0.0,
+  "TVS MOTOR COMPANY LTD": 0.0,
+  "BAJAJ AUTO LTD": 0.0,
+  "CHETAK TECHNOLOGY LIMITED": 0,
+  "ROYAL-ENFIELD (UNIT OF EICHER LTD)": 0.0,
+  "VE COMMERCIAL VEHICLES LTD": 0.0294,
+  "VE COMMERCIAL VEHICLES LTD (VOLVO BUSES DIVISION)": 0.0,
+  "EICHER MOTORS LTD": 0.0,
+  "ASHOK LEYLAND LTD": 0.0214,
+  "SWITCH MOBILITY AUTOMOTIVE LTD": 0.0664,
+  "ESCORTS KUBOTA LIMITED (AGRI MACHINERY GROUP)": 0.0004,
+  "ESCORTS KUBOTA LIMITED (CONSTRUCTION EQUIPMENT)": 1.0,
+  "ESCORTS CONSTRUCTION EQUIPMENT LTD": 0.3299,
+  "ESCORTS TRACTORS LTD": 0.0,
+  "ESCORTS LTD": 0.3333,
+  "FORCE MOTORS LIMITED": 0.0415,
+  "ATUL AUTO LTD": 0.0,
+  "ATUL GREENTECH PRIVATE LIMITED": 0.0,
+  "OLA ELECTRIC TECHNOLOGIES PVT LTD": 0.0,
+  "ATHER ENERGY LTD": 0.0,
+  "GREAVES ELECTRIC MOBILITY LTD": 0.0,
+  "AMPERE VEHICLES PRIVATE LIMITED": 0.0,
+  "AMPERE VEHICLES PVT LTD": 0.0,
+  "SML MAHINDRA LTD": 0.0264,
+  "OLECTRA GREENTECH LTD": 0.0091,
+  "JBM AUTO LIMITED": 0.0,
+  "JBM ELECTRIC VEHICLES PVT LTD": 0.2099
+ },
+ "otherBaselineFrom": "2025, deduplicated segments"
+}
